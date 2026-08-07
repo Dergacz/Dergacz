@@ -103,7 +103,7 @@ const stanislau = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dergacz&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dergacz&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@ const stanislau = {
 
 ## 💼 Portfolio &amp; Contacts
 
-Take a look at my work → **<a href="https://tranquil-scone-b29eda.netlify.app/" target="_blank">tranquil-scone-b29eda.netlify.app</a>**
+Take a look at my work → **<a href="https://macport.netlify.app/" target="_blank">https://macport.netlify.app/</a>**
 
 - 📧 **Email** — [sats96dergach@gmail.com](mailto:sats96dergach@gmail.com)
 - 💬 **Telegram** — [@o11ool](https://t.me/o11ool)
