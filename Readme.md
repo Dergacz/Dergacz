@@ -103,7 +103,7 @@ const stanislau = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dergacz&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dergacz&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
