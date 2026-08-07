@@ -103,8 +103,17 @@ const stanislau = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dergacz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dergacz&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=00000000&title_color=8B5CF6" alt="Top Languages"/>
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dergacz&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dergacz&theme=tokyonight" alt="Top Languages by Repo"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dergacz&theme=tokyonight" alt="Top Languages by Commit"/>
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dergacz&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dergacz&theme=tokyonight&utcOffset=2" alt="Productive Time"/>
 </p>
 
 <br/>
