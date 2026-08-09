@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://tranquil-scone-b29eda.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://macport.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/stanislau-dziarhach-6460aa20b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/o11ool"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:sats96dergach@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:stanislav.dziarhach@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -103,7 +103,7 @@ const stanislau = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dergacz&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dergacz&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
@@ -120,9 +120,9 @@ const stanislau = {
 
 ## 💼 Portfolio &amp; Contacts
 
-Take a look at my work → **<a href="https://macport.netlify.app/" target="_blank">https://macport.netlify.app/</a>**
+Take a look at my work → **<a href="https://macport.netlify.app/" target="_blank">macport.netlify.app</a>**
 
-- 📧 **Email** — [sats96dergach@gmail.com](mailto:sats96dergach@gmail.com)
+- 📧 **Email** — [stanislav.dziarhach@gmail.com](mailto:stanislav.dziarhach@gmail.com)
 - 💬 **Telegram** — [@o11ool](https://t.me/o11ool)
 - 💼 **LinkedIn** — [Stanislau Dziarhach](https://www.linkedin.com/in/stanislau-dziarhach-6460aa20b/)
 
